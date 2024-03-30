@@ -41,11 +41,10 @@
     </a>
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/chiranjeev-thapliyal/github-readme-stats"><img alt="Mukul Kumar Github Stats" src="https://github-readme-stats.vercel.app/api?username=chiranjeev-thapliyal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/chiranjeev-thapliyal/github-readme-stats"><img alt="Mukul Kumar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjeev-thapliyal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=httpsmukul&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=httpsmukul&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=httpsmukul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
