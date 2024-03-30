@@ -56,7 +56,7 @@
 <br/>
 
 
-<a href="https://github.com/httpsmukul/github-readme-activity-graph"><img alt="Mukul Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=httpsmukul&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 <br/>
