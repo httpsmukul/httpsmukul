@@ -6,15 +6,15 @@
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
-- 👨‍💻 My Portfolio - **[Chiranjeev Thapliyal](https://chiranjeev-thapliyal.vercel.app/)**
+- 👨‍💻 My Portfolio - **[Mukul Kumar](https://portfolio-mukul0000.vercel.app/)**
 
 - 🔭 I’m currently working on **[Faasos Clone](https://github.com/chiranjeev-thapliyal/faasos)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **AWS**
 
 - <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/18/000000/teamwork--v2.png" style="margin-right: 10px"/> I’m looking to collaborate on OpenSource Projects </p> 
 
-- 📫 How to reach me **connect.chiranjeev@gmail.com**
+- 📫 How to reach me **connect.mukulkumar@gmail.com**
 
 <br/>
 
