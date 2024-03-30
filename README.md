@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chiranjeev Thapliyal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mukul Kumar</h1>
 <h3 align="center">I'm a passionate Full Stack Developer and Competitive Programmer from India.</h3>
 
 
@@ -43,15 +43,15 @@
 
 <p align="center">
     <a href="https://github.com/chiranjeev-thapliyal/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chiranjeev Thapliyal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjeev-thapliyal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mukul Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjeev-thapliyal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/chiranjeev-thapliyal/github-readme-stats"><img alt="Chiranjeev Thapliyal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chiranjeev-thapliyal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/chiranjeev-thapliyal/github-readme-stats"><img alt="Chiranjeev Thapliyal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjeev-thapliyal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/chiranjeev-thapliyal/github-readme-stats"><img alt="Mukul Kumar Github Stats" src="https://github-readme-stats.vercel.app/api?username=chiranjeev-thapliyal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/chiranjeev-thapliyal/github-readme-stats"><img alt="Mukul Kumar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjeev-thapliyal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/chiranjeev-thapliyal/github-readme-activity-graph"><img alt="Chiranjeev Thapliyal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chiranjeev-thapliyal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/chiranjeev-thapliyal/github-readme-activity-graph"><img alt="Mukul Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chiranjeev-thapliyal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
